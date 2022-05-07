@@ -1,0 +1,4 @@
+D:\Users\Gleb\Desktop\BlackJack\BlackJack\x64\Debug\BlackJack.vcxproj.AssemblyReference.cache
+D:\Users\Gleb\Desktop\BlackJack\BlackJack\x64\Debug\BlackJack.vcxproj.SuggestedBindingRedirects.cache
+D:\Users\Gleb\Desktop\BlackJack\BlackJack\x64\Debug\BlackJack.MyForm.resources
+D:\Users\Gleb\Desktop\BlackJack\BlackJack\x64\Debug\BlackJack.vcxproj.GenerateResource.cache
